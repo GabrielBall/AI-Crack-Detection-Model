@@ -1,1 +1,0 @@
-# AI-Crack-Detection-Model
