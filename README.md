@@ -6,7 +6,9 @@ This repository contains the code for the EMAT31530 project. It includes two mai
 This Jupyter Notebook file encompasses the final codebase for the crack classification project. It includes:
 
 Testing: Evaluation of the trained models on test data to assess their performance.
+
 Validation: Validation of models during training to monitor their progress and prevent overfitting.
+
 Comparison: Comparison of different network architectures, including performance metrics, visualizations, and analysis.
 
 ### Dino_SelfSupervised_Transformer.pynb
